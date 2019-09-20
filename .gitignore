@@ -8,6 +8,8 @@ nbproject/*
 build/*
 recursos/Targua
 vendor/
+www/*settings.php
+www/*prueba.php
 *settings.php
 .DS_Store
 .vscode
